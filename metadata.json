@@ -1,0 +1,6 @@
+{
+  "name": "Grammar Assistant",
+  "description": "A production-grade, dynamic AI-powered and offline-capable writing assistant, spelling checker, and grammar engine styled in a Linux-first Fluent UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
